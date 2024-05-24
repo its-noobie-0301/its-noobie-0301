@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vijitviveksingh
-- 👀 I’m interested in Verilog and VHDL
-- 🌱 I’m currently learning Verilog/SystemVerilog
+- 👋 Hi, This is @vijitviveksingh
+- 👀 Interested in Verilog and VHDL
+- 🌱 Currently learning Verilog/SystemVerilog
 - 💞️ Looking to collaborate on VLSI Projects
 - 📫 Reach me @ vijitviveksingh@gmail.com
 - 😄 Pronouns: He/Him
