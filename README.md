@@ -1,7 +1,8 @@
 - 👋 Hi, This is @vijitviveksingh
-- 👀 Interested in VLSI & IoT
-- 🌱 Currently learning Verilog/SystemVerilog/Protocols
-- 💞️ Looking to collaborate on VLSI RTL Design or IoT Projects
+- 👀 Interested in VLSI & IoT/Embedded
+- 🌱 Currently learning SystemVerilog
+- 🤖 Worked on Robotics and Embedded Systems
+- 💞️ Looking to collaborate on VLSI Design or IoT Projects
 - 📫 Reach me @ vijitviveksingh@gmail.com
 - 😄 Pronouns: He/Him
 
